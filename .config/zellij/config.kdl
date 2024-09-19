@@ -1,5 +1,7 @@
+theme "catppuccin"
+
 themes {
-    default {
+    catppuccin {
         bg "#585b70"
         fg "#cdd6f4"
         red "#f38ba8"
